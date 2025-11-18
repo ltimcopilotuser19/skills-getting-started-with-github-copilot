@@ -7,6 +7,6 @@ export function highlightParticipantsSection(activityCard) {
     section.style.background = '#e0ffe0';
     setTimeout(() => {
       section.style.background = '#f8f9fa';
-    }, 800);
+    }, 800);a
   }
 }
